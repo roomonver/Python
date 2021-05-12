@@ -18,5 +18,4 @@ import pandas as pd
 dataFrame = pd.DataFrame(dataList, columns =['valores'])
 print(type(dataFrame))
 print("Media del dataFrame usando Statistics es : % s " % (statistics.mean(dataFrame['valores'])))
-
 print("Media del dataFrame útilizando mean() es : % s " % dataFrame['valores'].mean())
