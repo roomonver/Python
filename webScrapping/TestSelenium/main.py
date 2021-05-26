@@ -60,3 +60,41 @@ sleep(2)
 # Busco la opcion que quiero y hago clic en ella para listar todos los fondos mutuos.
 opcion =  driver.find_element_by_xpath("//md-option[@id='select_option_16']")
 opcion.click()
+
+cuerpoTabla = driver.find_element_by_xpath('//tbody[@ng-show="renderBusquedaFMOk"]')
+fondos = cuerpoTabla.find_elements_by_xpath('.//tr[@class="ng-scope"]')
+
+nemoLista = list()
+varDiaLista = list()
+var30Lista = list()
+varAñoList = list()
+valorCuota = list()
+i = 0
+for fondo in fondos:
+    
+    # fondo.find_elements_by_xpath('//tbody[@data-title="Fondo Mutuo"]')
+    nemoLista.append(fondo.find_element_by_xpath('.//td[@data-title="Fondo Mutuo"]').text )
+    varDiaLista.append(fondo.find_element_by_xpath('.//td[@data-title="Var. % diaria"]').text)
+    var30Lista.append(fondo.find_element_by_xpath('.//td[@data-title="Var. % 30 días"]').text)
+    varAñoList.append(fondo.find_element_by_xpath('.//td[@data-title="Var. % Acu. año"]').text)
+    valorCuota.append(fondo.find_element_by_xpath('.//td[@data-title="Valor Cuota"]').text)
+    print(i)
+    i+=1
+
+import pandas as pd
+dfFondosMutuos = pd.DataFrame(list(zip(nemoLista,
+                                        varDiaLista,
+                                        var30Lista,
+                                        varAñoList,
+                                        valorCuota)),
+                              columns = ["Fondo Mutuos",
+                                         "Variacion Diaria",
+                                         "Variacion 30 dias",
+                                         "Variacion Acumulada Año",
+                                         "Valor Cuota"])
+
+from datetime import date
+today = date.today()
+
+dfFondosMutuos.to_csv('FondosMutuos{0}.csv'.format(today))
+
