@@ -72,7 +72,6 @@ valorCuota = list()
 i = 0
 for fondo in fondos:
     
-    # fondo.find_elements_by_xpath('//tbody[@data-title="Fondo Mutuo"]')
     nemoLista.append(fondo.find_element_by_xpath('.//td[@data-title="Fondo Mutuo"]').text )
     varDiaLista.append(fondo.find_element_by_xpath('.//td[@data-title="Var. % diaria"]').text)
     var30Lista.append(fondo.find_element_by_xpath('.//td[@data-title="Var. % 30 días"]').text)

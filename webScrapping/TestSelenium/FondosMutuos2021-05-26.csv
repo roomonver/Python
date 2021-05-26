@@ -7,7 +7,7 @@
 -0,2689 %","
 -2,2417 %","
 -1,41 %","$ 1.132,5801"
-2,Alianza Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+2,Alianza Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 3,Alianza Serie L,"
 -0,2740 %","
 -2,3942 %","
@@ -24,7 +24,7 @@
 1,8868 %","
 2,8283 %","
 4,61 %","$ 1.549,3049"
-7,Asia Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+7,Asia Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 8,Asia Serie L,"
 1,8770 %","
 2,5330 %","
@@ -85,7 +85,7 @@
 1,1126 %","
 2,8506 %","
 0,35 %","$ 1.915,5217"
-23,Banchile Deuda Internacional Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+23,Banchile Deuda Internacional Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 24,Banchile Deuda Internacional Serie BPLUS,"
 1,1137 %","
 2,8844 %","
@@ -94,8 +94,8 @@
 1,1101 %","
 2,7746 %","
 -0,38 %","$ 996,2194"
-26,Banchile Deuda Internacional Serie M,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-27,Banchile Deuda Internacional Serie P1,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+26,Banchile Deuda Internacional Serie M,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+27,Banchile Deuda Internacional Serie P1,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 28,Banchile Deuda Soberana Serie B,"
 -0,5106 %","
 -4,4055 %","
@@ -119,16 +119,16 @@
 33,Banchile FI Axon Aurora I A,"0,0000 %","0,0000 %","0,00 %","EUR 1,0000"
 34,Banchile FI Axon Aurora I BCH,"0,0000 %","0,0000 %","0,00 %","EUR 1,0000"
 35,Banchile FI Axon Aurora I P1,"0,0000 %","0,0000 %","0,00 %","EUR 1,0000"
-36,Banchile FI Axon Aurora I P2,"0,0000 %","0,0000 %","0,00 %","EUR 0,0000"
-37,Banchile FI Axon Aurora I P3,"0,0000 %","0,0000 %","0,00 %","EUR 0,0000"
-38,Banchile Global High Yield Serie B,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+36,Banchile FI Axon Aurora I P2,"0,0000 %","0,0000 %","0,00 %","EUR 1,0000"
+37,Banchile FI Axon Aurora I P3,"0,0000 %","0,0000 %","0,00 %","EUR 1,0000"
+38,Banchile Global High Yield Serie B,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 39,Banchile Global High Yield Serie BCH,"
 0,1297 %","
 0,3136 %","
 1,74 %","$ 1.097,8000"
 40,Banchile Global High Yield Serie BPLUS,"0,0000 %","0,0000 %","
 0,84 %","$ 2.099,5955"
-41,Banchile Global High Yield Serie L,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+41,Banchile Global High Yield Serie L,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 42,Banchile Global High Yield Serie M,"
 0,1252 %","
 0,1763 %","
@@ -239,8 +239,8 @@
 -0,1691 %","
 -2,2653 %","
 -1,29 %","$ 1.114,4032"
-70,Depósito XXI Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-71,Depósito XXI Serie IT,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+70,Depósito XXI Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
+71,Depósito XXI Serie IT,"0,0000 %","0,0000 %","0,00 %","$ 5.000,0000"
 72,Depósito XXI Serie L,"
 -0,1744 %","
 -2,4178 %","
@@ -265,7 +265,7 @@
 0,0004 %","
 0,0117 %","
 0,06 %","$ 44.192,3950"
-78,Disponible Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+78,Disponible Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 79,Disponible Serie BPLUS,"
 0,0004 %","
 0,0117 %","
@@ -302,8 +302,8 @@
 1,0977 %","
 0,7556 %","
 5,99 %","$ 6.116,9766"
-88,Estrategia Agresiva Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-89,Estrategia Agresiva Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+88,Estrategia Agresiva Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+89,Estrategia Agresiva Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 90,Estrategia Agresiva Serie L,"
 1,0891 %","
 0,4992 %","
@@ -316,8 +316,8 @@
 0,0456 %","
 -2,1643 %","
 -2,23 %","$ 51.086,9380"
-93,Estrategia Conservadora Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-94,Estrategia Conservadora Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+93,Estrategia Conservadora Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+94,Estrategia Conservadora Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 95,Estrategia Conservadora Serie L,"
 0,0404 %","
 -2,3169 %","
@@ -330,7 +330,7 @@
 0,6240 %","
 -0,4292 %","
 1,93 %","$ 2.088,6858"
-98,Estrategia Moderada Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+98,Estrategia Moderada Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 99,Estrategia Moderada Serie BPLUS,"
 0,6265 %","
 -0,3555 %","
@@ -391,14 +391,14 @@
 114,FI AG Direct Lending IV Serie A,"0,0000 %","
 -0,2500 %","
 1,70 %","USD 0,9977"
-115,FI AG Direct Lending IV Serie BCH,"0,0000 %","0,0000 %","0,00 %","USD 0,0000"
+115,FI AG Direct Lending IV Serie BCH,"0,0000 %","0,0000 %","0,00 %","USD 1,0000"
 116,FI AG Direct Lending IV Serie P1,"0,0000 %","
 -0,1385 %","
 2,23 %","USD 1,0092"
 117,FI AG Direct Lending IV Serie P2,"0,0000 %","
 -0,0886 %","
 2,49 %","USD 1,0148"
-118,FI AG Direct Lending IV Serie P3,"0,0000 %","0,0000 %","0,00 %","USD 0,0000"
+118,FI AG Direct Lending IV Serie P3,"0,0000 %","0,0000 %","0,00 %","USD 1,0000"
 119,FI Banchile Equity Trends Serie A,"
 1,3788 %","
 -1,5625 %","
@@ -411,7 +411,7 @@
 -0,0790 %","
 4,1514 %","
 4,18 %","$ 1.032,8478"
-122,FI Banchile Latam Equity Serie BPLUS1,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+122,FI Banchile Latam Equity Serie BPLUS1,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 123,FI Banchile MarketPlus Japon Serie A,"
 2,0415 %","
 1,0014 %","
@@ -432,7 +432,7 @@
 -0,4281 %","
 -5,4812 %","
 -3,24 %","$ 14.332,6160"
-128,FI Chile Blend Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+128,FI Chile Blend Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 129,FI CS,"
 -0,0004 %","
 -0,0207 %","
@@ -473,12 +473,12 @@
 0,0753 %","
 1,2001 %","
 0,52 %","$ 1.009,5148"
-139,FI EDR Fund Emerging Credit Serie P,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+139,FI EDR Fund Emerging Credit Serie P,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 140,FI Emerging Equity Serie A,"
 2,0681 %","
 2,6413 %","
 6,95 %","$ 1.410,9945"
-141,FI Emerging Equity Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+141,FI Emerging Equity Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 142,FI Energias Renovables I Serie A,"0,0000 %","
 -1,3516 %","0,00 %","USD 0,9853"
 143,FI Energias Renovables I Serie P1,"0,0000 %","
@@ -494,7 +494,7 @@
 -0,0018 %","
 -0,6236 %","
 1,52 %","EUR 73,0973"
-147,FI European Value Partners II BCH,"0,0000 %","0,0000 %","0,00 %","EUR 0,0000"
+147,FI European Value Partners II BCH,"0,0000 %","0,0000 %","0,00 %","EUR 100,0000"
 148,FI European Value Partners II P1,"
 -0,0017 %","
 -0,3694 %","
@@ -519,7 +519,7 @@
 -0,0005 %","
 -0,1346 %","
 0,58 %","$ 27.107,5500"
-154,FI Infraestructura Chile I Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+154,FI Infraestructura Chile I Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 27.551,5600"
 155,FI Infraestructura Chile I Serie IT,"
 -0,0005 %","
 -0,0472 %","
@@ -564,7 +564,7 @@
 1,1309 %","
 2,9548 %","
 0,92 %","$ 948,8831"
-166,FI Marketplus Deuda Global Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+166,FI Marketplus Deuda Global Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 167,FI MarketPlus Emergente Serie A,"
 2,0236 %","
 2,3218 %","
@@ -593,7 +593,7 @@
 1,1780 %","
 3,5806 %","
 14,24 %","$ 1.950,0609"
-174,FI MarketPlus Global Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+174,FI MarketPlus Global Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 175,FI Plusvalia Eficiente,"
 -0,0003 %","
 -0,0639 %","
@@ -618,21 +618,21 @@
 -0,0010 %","
 -0,0305 %","
 6,70 %","USD 121,7767"
-181,FI United States Property Fund VI C,"0,0000 %","0,0000 %","0,00 %","USD 0,0000"
-182,FI United States Property Fund VI IT,"0,0000 %","0,0000 %","0,00 %","USD 0,0000"
+181,FI United States Property Fund VI C,"0,0000 %","0,0000 %","0,00 %","USD 100,0000"
+182,FI United States Property Fund VI IT,"0,0000 %","0,0000 %","0,00 %","USD 100,0000"
 183,FI USA Equity Serie A,"
 0,5915 %","
 2,6273 %","
 11,55 %","$ 3.003,1619"
-184,FI USA Equity Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-185,FM Banchile Agresivo Serie APV Digital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-186,FM Banchile Agresivo Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-187,FM Banchile Conservador Serie APVDigital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-188,FM Banchile Conservador Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-189,FM Banchile Moderado Serie APV Digital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-190,FM Banchile Moderado Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-191,FM Renta Largo Plazo Serie APV Digital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-192,FM Renta Largo Plazo Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+184,FI USA Equity Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+185,FM Banchile Agresivo Serie APV Digital,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+186,FM Banchile Agresivo Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+187,FM Banchile Conservador Serie APVDigital,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+188,FM Banchile Conservador Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+189,FM Banchile Moderado Serie APV Digital,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+190,FM Banchile Moderado Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+191,FM Renta Largo Plazo Serie APV Digital,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+192,FM Renta Largo Plazo Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 193,Global Dollar Serie L,"
 0,3402 %","
 -0,2528 %","
@@ -645,8 +645,8 @@
 0,9411 %","
 2,4001 %","
 12,17 %","$ 28.091,1430"
-196,Global Mid Cap Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-197,Global Mid Cap Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+196,Global Mid Cap Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+197,Global Mid Cap Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 198,Global Mid Cap Serie L,"
 0,9336 %","
 2,1731 %","
@@ -691,8 +691,8 @@
 -0,8600 %","
 -18,2815 %","
 -2,18 %","$ 3.691,5361"
-209,Inv. Calificado Acciones Nac Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-210,Inv. Calificado Acciones Nac Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+209,Inv. Calificado Acciones Nac Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+210,Inv. Calificado Acciones Nac Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 211,Inv. Calificado Acciones Nac Serie L,"
 -0,8624 %","
 -19,5919 %","
@@ -738,7 +738,7 @@
 2,8682 %","
 1,9630 %","
 4,66 %","$ 5.598,2280"
-224,Inversión China Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+224,Inversión China Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 225,Inversión China Serie BPLUS,"
 2,8721 %","
 2,0804 %","
@@ -779,7 +779,7 @@
 1,6117 %","
 1,8795 %","
 1,36 %","$ 1.459,1725"
-235,Japón Accionario Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+235,Japón Accionario Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 236,Japón Accionario Serie L,"
 1,5992 %","
 1,5033 %","
@@ -818,15 +818,15 @@
 -0,3976 %","
 -2,65 %","USD 168,6519"
 246,Latam Corporate Investment Grade Serie P,"0,0000 %","0,0000 %","0,00 %","USD 140,2675"
-247,Liquidez Serie APV Digital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+247,Liquidez Serie APV Digital,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 248,Liquidez Serie B,"
 0,0005 %","
 0,0131 %","
 0,05 %","$ 1.037,4713"
-249,Liquidez Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+249,Liquidez Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 250,Liquidez Serie BPLUS,"0,0000 %","0,0000 %","
 0,01 %","$ 2.005,8088"
-251,Liquidez Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+251,Liquidez Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 252,Liquidez Serie L,"
 0,0002 %","
 0,0053 %","
@@ -839,7 +839,7 @@
 -1,1739 %","
 -16,7744 %","
 3,52 %","$ 1.005,5596"
-255,Mid Cap Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+255,Mid Cap Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 256,Mid Cap Serie BPLUS,"
 -1,1714 %","
 -16,7128 %","
@@ -856,7 +856,7 @@
 1,2447 %","
 0,7751 %","
 7,04 %","$ 1.058,0621"
-260,Portafolio Activo Agresivo Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+260,Portafolio Activo Agresivo Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 261,Portafolio Activo Agresivo Serie BPLUS,"
 1,2472 %","
 0,8497 %","
@@ -882,7 +882,7 @@
 0,6177 %","
 -0,5626 %","
 1,91 %","$ 4.493,8022"
-268,Portafolio Activo Equilibrado Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+268,Portafolio Activo Equilibrado Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 269,Portafolio Activo Equilibrado Serie BPLU,"
 0,6194 %","
 -0,5095 %","
@@ -895,7 +895,7 @@
 0,5552 %","
 -0,6799 %","
 1,24 %","$ 2.811,7876"
-272,Portafolio Activo Moderado Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+272,Portafolio Activo Moderado Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 273,Portafolio Activo Moderado Serie BPLUS,"
 0,5570 %","
 -0,6268 %","
@@ -908,7 +908,7 @@
 1,1529 %","
 0,7106 %","
 5,94 %","$ 2.213,7450"
-276,Portafolio Activo Potenciado Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+276,Portafolio Activo Potenciado Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 277,Portafolio Activo Potenciado Serie BPLUS,"
 1,1554 %","
 0,7851 %","
@@ -925,7 +925,7 @@
 -0,3193 %","
 -2,9788 %","
 -2,88 %","$ 1.173,3749"
-281,Renta Futura Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+281,Renta Futura Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 282,Renta Futura Serie IT,"0,0000 %","0,0000 %","
 -0,48 %","$ 4.848,6777"
 283,Renta Futura Serie L,"
@@ -936,7 +936,7 @@
 -0,3238 %","
 -3,1116 %","
 -3,52 %","$ 2.319,0085"
-285,Renta Mediano Plazo Serie APV Digital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+285,Renta Mediano Plazo Serie APV Digital,"0,0000 %","0,0000 %","0,00 %","$ 40.000,0000"
 286,Renta Mediano Plazo Serie B,"
 -0,0129 %","
 -0,5432 %","
@@ -946,8 +946,8 @@
 -0,0201 %","
 -0,3223 %","
 -0,32 %","$ 1.999,6790"
-289,Renta Mediano Plazo Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-290,Renta Mediano Plazo Serie IT,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+289,Renta Mediano Plazo Serie Digital,"0,0000 %","0,0000 %","0,00 %","$ 40.000,0000"
+290,Renta Mediano Plazo Serie IT,"0,0000 %","0,0000 %","0,00 %","$ 39.000,0000"
 291,Renta Mediano Plazo Serie L,"
 -0,0129 %","
 -0,5432 %","
@@ -964,7 +964,7 @@
 -0,5774 %","
 -15,2991 %","
 -1,03 %","$ 750,0908"
-295,Renta Variable Nacional Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+295,Renta Variable Nacional Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 296,Renta Variable Nacional Serie L,"
 -0,5856 %","
 -16,5076 %","
@@ -1010,8 +1010,8 @@
 0,6437 %","
 1,6618 %","
 17,14 %","$ 3.121,1294"
-308,US Mid Cap Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
-309,US Mid Cap Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+308,US Mid Cap Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
+309,US Mid Cap Serie BPLUS,"0,0000 %","0,0000 %","0,00 %","$ 2.000,0000"
 310,US Mid Cap Serie L,"
 0,6362 %","
 1,4364 %","
@@ -1024,7 +1024,7 @@
 -0,0561 %","
 -1,0310 %","
 -0,26 %","$ 2.888,1992"
-313,Utilidades Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 0,0000"
+313,Utilidades Serie BCH,"0,0000 %","0,0000 %","0,00 %","$ 1.000,0000"
 314,Utilidades Serie BPLUS,"0,0000 %","0,0000 %","
 -0,35 %","$ 2.058,7560"
 315,Utilidades Serie L,"
