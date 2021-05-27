@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 
 '''
-Tutorial seguido
-https://www.youtube.com/watch?v=fM_Os976HsQ
-
 * * * * * S E L E N I U M * * *
 
 1)Como primer paso se debe instalar la libreria de Selenium
