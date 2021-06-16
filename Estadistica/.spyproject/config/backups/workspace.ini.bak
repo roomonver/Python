@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['Distribuciones\\01-histograma.py', 'Distribuciones\\02-funcionMasaProbabilidad.py', 'Distribuciones\\00-distribucionClases.py', 'union-Inter-diff.py', 'probabilidades.py']
+recent_files = ['probabilidades.py', 'modeloProbabilidad.py', 'Basicos\\01-Medida Centralizacion\\media.py']
 
