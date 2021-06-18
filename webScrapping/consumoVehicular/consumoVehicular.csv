@@ -1,0 +1,11 @@
+,modelo,codigoInformeTecnico,marca,traccion,propulsion,transmision,carroceria,cilindrada,fCertificacion,categoria,norma,co2,rCiudad,rCarretera,rMixto
+0,Giulia 2.0 200cv,AR7690E60319S00-4,Alfa Romeo,4x2,Combustión Gasolina,A,Sedán,"2,0",23/05/2019,LPO,EURO 6,140 [grs/km],"11,7 [km/l]","21,6 [km/l]","16,5 [km/l]"
+1,Giulia 2.0 200cv,AR7690E60319S00-4,Alfa Romeo,4x2,Combustión Gasolina,A,Sedán,"2,0",23/05/2019,LPO,EURO 6,140 [grs/km],"11,7 [km/l]","21,6 [km/l]","16,5 [km/l]"
+2,Giulia Veloce 280cv AT AWD,AR7689E60319S00-9,Alfa Romeo,4x4,Combustión Gasolina,A,Sedán,"2,0",19/06/2019,LPO,EURO 6,149 [grs/km],"11,1 [km/l]","20,0 [km/l]","15,4 [km/l]"
+3,"Giulietta 1,6 Lts. JTD DOHC Hatchback 5P. T/M Motor Diésel",AR5674E50414S00-9,Alfa Romeo,4x2,Combustión Diésel,M,Hatchback,"1,6",13/05/2014,LPD,EURO 5,114 [grs/km],"18,2 [km/l]","27,0 [km/l]","22,7 [km/l]"
+4,"Giulietta 1,4 Lts. 16v SOHC Hatchback 5P. T/M Motor Otto",AR3805E51013S00-5,Alfa Romeo,4x2,Combustión Gasolina,M,Hatchback,"1,4",06/01/2011,LPO,EURO 5,139 [grs/km],"12,5 [km/l]","21,7 [km/l]","16,7 [km/l]"
+5,"Giulietta Distinctive 1,4 Lts. SOHC Hatchback 5P. T/A Motor Otto",AR4716E51013S00-4,Alfa Romeo,4x2,Combustión Gasolina,A,Hatchback,"1,4",13/07/2012,LPO,EURO 5,124 [grs/km],"14,7 [km/l]","22,2 [km/l]","18,9 [km/l]"
+6,"Giulietta Progression 1,4 Lts. DOHC Hatchback 5P. T/M Motor Otto",AR4725E51013S00-3,Alfa Romeo,4x2,Combustión Gasolina,M,Hatchback,"1,4",13/07/2012,LPO,EURO 5,157 [grs/km],"11,4 [km/l]","18,2 [km/l]","14,9 [km/l]"
+7,"Giulietta Quadrifoglio Verdi 1,7 Lts.DOHC Hatchback 5P. T/M Motor Otto",AR4720E51013S00-6,Alfa Romeo,4x2,Combustión Gasolina,M,Hatchback,"1,7",13/07/2012,LPO,EURO 5,181 [grs/km],"9,2 [km/l]","16,9 [km/l]","12,8 [km/l]"
+8,"Giulietta Quadrifoglio Verdi 1,7 Lts. Hatchback TCT T/A",AR4720E50616S01-9,Alfa Romeo,4x2,Combustión Gasolina,A,Hatchback,"1,7",14/06/2016,LPO,EURO 5,195 [grs/km],"8,5 [km/l]","16,1 [km/l]","12,1 [km/l]"
+9,"Mito 1,4 Lts. 135 CV DOHC Hatchback 3P. T/M Motor Otto",AR4667E51013S00-9,Alfa Romeo,4x2,Combustión Gasolina,M,Hatchback,"1,4",11/06/2012,LPO,EURO 5,130 [grs/km],"13,3 [km/l]","22,2 [km/l]","17,9 [km/l]"
